@@ -4,9 +4,5 @@ def:
    - title:
        - 'tmp:*'
 
-fix:
-- pr:
-     title:
-       - 'test2:*'
-  
+
 
