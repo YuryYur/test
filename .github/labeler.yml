@@ -1,10 +1,12 @@
 
 def:
- - pr:
-     title:
+- pr:
+   - title:
        - 'tmp:*'
 
 fix:
- - pr:
+- pr:
      title:
        - 'test2:*'
+  
+
