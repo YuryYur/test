@@ -2,7 +2,7 @@
 def:
  - pr:
      title:
-       - 'test1:*'
+       - 'tmp:*'
 
 fix:
  - pr:
