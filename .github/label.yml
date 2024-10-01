@@ -1,1 +1,10 @@
 
+def:
+ - pr:
+     title:
+       - 'test1:*'
+
+fix:
+ - pr:
+     title:
+       - 'test2:*'
